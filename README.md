@@ -5,7 +5,9 @@
   - [Oracle Database Administration ](https://education.oracle.com/oracle-database-administration-i/pexam_1Z0-082)
   - Web and Networking
 
-- ⚡ Fun fact: I've been a cook for many years before I decided to change career.
+- ⚡ Fun facts:
+  - I've been a cook for many years before I decided to change career.
+  - I like to code while listening to Vynil Records.
 
 [![lede-gui's 42 stats](https://badge.mediaplus.ma/binary/lede-gui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
