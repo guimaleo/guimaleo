@@ -9,6 +9,20 @@
 
 [![lede-gui's 42 stats](https://badge.mediaplus.ma/binary/lede-gui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+## I'm currently working on
+<details>
+  <summary>Oracle Database</summary>
+   <ul>
+    <li>Administration</li>
+    <li>Autonomous Database Cloud</li>
+  </ul>
+</details>
+
+<details>
+  <summary>42's Rank 2 Projects</summary>
+    <a href="https://github.com/guimaleo/pipex">Pipex</a></details>
+
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,bash,md,linux,git,github,vim,neovim,mysql,notion)](https://skillicons.dev)
