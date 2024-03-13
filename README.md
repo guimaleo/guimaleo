@@ -7,7 +7,7 @@
 
 - ⚡ Fun facts:
   - I've been a cook for many years before I decided to change career.
-  - I like to code while listening to Vynil Records.
+  - I like to code while listening to Metal or Techno =)
 
 [![lede-gui's 42 stats](https://badge.mediaplus.ma/binary/lede-gui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
