@@ -22,7 +22,7 @@
 
 <details>
   <summary>42's Rank 2 Projects</summary>
-    <a href="https://github.com/guimaleo/pipex">Pipex</a></details>
+    <a href="https://github.com/guimaleo/42-School-Projects/tree/main/Rank2">Rank 2</a></details>
 
 
 ## Skills
