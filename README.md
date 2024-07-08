@@ -39,3 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 ![rsz_db_badge](https://github.com/guimaleo/guimaleo/assets/128752196/0cf3b6d7-26b2-4171-838b-7ca8dea0b215)
 ![rsz_1sql_badge](https://github.com/guimaleo/guimaleo/assets/128752196/69a3bbd9-d589-4390-82ba-1209c8faed39)
+
+
+## Oracle Certifications:
+
+[MySQL HeatWave Implementation Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9535FA78D53A725E98509FAA179A342C34E389F4B1298C80356B31B79651A238)
