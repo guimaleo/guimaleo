@@ -45,3 +45,10 @@ You can click the Preview link to take a look at your changes.
 [Oracle Certified Professional (OCP)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3A806C361399A0963CE91B059CB57D25A6FC8471DF74678D4BBEFA65221E27F4)
 
 [MySQL HeatWave Implementation Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9535FA78D53A725E98509FAA179A342C34E389F4B1298C80356B31B79651A238)
+
+
+____________________________________________________________________________________________________________________________________________
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaleo&layout=compact&theme=transparent&hide_border=false&title_color=e8e8e8" width="400" />
+</p>
