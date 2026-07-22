@@ -2,41 +2,41 @@
 - 👀 I’m interested in OS, Cyber Security, Databases, Software Development
 - 🌱 I’m currently learning
   - Software Development [@42 Lisbon](https://www.42lisboa.com/)
-      **C / C++**
+      **C | C++ | Bash | OCaml**
   - [Oracle Database Administration ](https://education.oracle.com/oracle-database-administration-i/pexam_1Z0-082)
   - Web and Networking
 
-- ⚡ Fun facts:
-  - I've been a cook for many years before I decided to change career.
-  - I like to code while listening to Metal or Techno =)
-
-[![lede-gui's 42 stats](https://badge.mediaplus.ma/greenbinary/lede-gui?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/greenbinary/lede-gui?1337Badge=off&UM6P=off" 
+       alt="lede-gui's 42 stats" 
+       style="border-radius: 10px; box-shadow: 4px 4px 8px rgba(0,0,0,0.2);" />
+</a>
 
 
 ## I'm currently working on
-<details>
-  <summary>Oracle Database</summary>
-   <ul>
-    <li>Administration</li>
-    <li>Autonomous Database Cloud</li>
-  </ul>
-</details>
+**42 Advanced:**
 
+  - [OCaml Piscine](https://projects.intra.42.fr/projects/42cursus-piscine-ocaml)
+
+  - [Malloc](https://projects.intra.42.fr/projects/42cursus-malloc)
+
+  - [Ft_turing](https://projects.intra.42.fr/projects/42cursus-ft_turing)
 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,md,linux,git,github,vim,neovim,mysql,notion,cpp)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ocaml,bash,linux,git,github,mysql,postgresql,notion,)](https://skillicons.dev)
+
+
+<a href="https://github.com/guimaleo">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=guimaleo&layout=donut&hide_title=false&langs_count=5&hide_values=true&disable_animations=false&theme=vision-friendly-dark&card_width=320&border_radius=10" />
+</a>
 
 <!---
 guimaleo/guimaleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![rsz_db_badge](https://github.com/guimaleo/guimaleo/assets/128752196/0cf3b6d7-26b2-4171-838b-7ca8dea0b215)
-![rsz_1sql_badge](https://github.com/guimaleo/guimaleo/assets/128752196/69a3bbd9-d589-4390-82ba-1209c8faed39)
-
 
 ## Oracle Certifications:
 [Oracle Certified Professional (OCP)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3A806C361399A0963CE91B059CB57D25A6FC8471DF74678D4BBEFA65221E27F4)
@@ -46,6 +46,5 @@ You can click the Preview link to take a look at your changes.
 
 ____________________________________________________________________________________________________________________________________________
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaleo&layout=compact&theme=transparent&hide_border=false&title_color=e8e8e8" width="400" />
-</p>
+
+
