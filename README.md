@@ -1,10 +1,22 @@
 # 👋 Hi, I’m Leonardo de Guimarães
 - 👀 I’m interested in OS, Cyber Security, Databases, Software Development
+  
 - 🌱 I’m currently learning
-  - Software Development [@42 Lisbon](https://www.42lisboa.com/)
-      **C | C++ | Bash | OCaml**
-  - [Oracle Database Administration ](https://education.oracle.com/oracle-database-administration-i/pexam_1Z0-082)
-  - Web and Networking
+
+  Software Development [@42 Lisbon](https://www.42lisboa.com/)
+  
+  *An innovative peer-to-peer programming school with no teachers, no lectures — just hands-on projects.*
+
+    **Tech Stack in progress:**
+    
+    **C | C++ | Bash | OCaml**
+
+    **Focus Areas:**
+
+    - Functional Programming
+    - Object Oriented Programming
+    - Systems Programming and Memory Management
+
 
 <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/greenbinary/lede-gui?1337Badge=off&UM6P=off" 
@@ -13,20 +25,21 @@
 </a>
 
 
-## I'm currently working on
-**42 Advanced:**
+## 🔨 Current Projects
 
-  - [OCaml Piscine](https://projects.intra.42.fr/projects/42cursus-piscine-ocaml)
+**42 Advanced Curriculum:**
 
-  - [Malloc](https://projects.intra.42.fr/projects/42cursus-malloc)
+  - [OCaml Piscine](https://projects.intra.42.fr/projects/42cursus-piscine-ocaml) -> Intensive functional programming bootcamp
 
-  - [Ft_turing](https://projects.intra.42.fr/projects/42cursus-ft_turing)
+  - [Malloc](https://projects.intra.42.fr/projects/42cursus-malloc) -> Implementing dynamic memory allocator from scratch
+
+  - [Ft_turing](https://projects.intra.42.fr/projects/42cursus-ft_turing) -> Turing machine simulator & interpreter
 
 
 ## Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ocaml,bash,linux,git,github,mysql,postgresql,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,mysql,postgresql,notion)](https://skillicons.dev)
 
 
 <a href="https://github.com/guimaleo">
